@@ -1,0 +1,7 @@
+all 
+# abs<0.15
+# 0<value<0.15
+# -0.15<value<0
+abs<0.15
+0<value<0.15
+-0.15<value<0

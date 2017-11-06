@@ -1,0 +1,3 @@
+This is a toolkit, named CSLT Node Sparseness Tookit (CNST), for implementation of node sparseness of deep neural networks in speech recogniton based on Kaldi.
+
+The introduction and the usage of the toolkit is covered by CSLT Technical Report 20170004 written by Yanqing Wang, Zhiyuan Tang and Dong Wang. You can read it to get aware of our previous work and the detailed information of CSLT Node Sparseness Tookit (CNST).

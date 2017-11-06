@@ -1,0 +1,3 @@
+This is a toolkit, named CSLT DNN Ensembling Tookit (CDET), for making an ensemble of four deep neural networks (must in specified format). 
+
+The introduction and the usage of the toolkit is covered by CSLT Technical Report 20170003 written by Yanqing Wang, Zhiyuan Tang and Dong Wang. You can read it to get aware of our previous work and the detailed information of CSLT DNN Ensembling Tookit (CDET).

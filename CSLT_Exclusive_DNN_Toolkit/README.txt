@@ -1,0 +1,3 @@
+This is a toolkit, named CSLT Exclusive DNN Tookit (CEDT), for construction of four deep neural networks, whose structures are mutually exclusive and collectively exhaustive.
+
+The introduction and the usage of the toolkit is covered by CSLT Technical Report 20170003 written by Yanqing Wang, Zhiyuan Tang and Dong Wang. You can read it to get aware of our previous work and the detailed information of CSLT Exclusive DNN Tookit (CEDT).

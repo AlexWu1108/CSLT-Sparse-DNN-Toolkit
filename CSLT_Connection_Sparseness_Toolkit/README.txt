@@ -1,0 +1,3 @@
+This is a toolkit, named CSLT Connection Sparseness Tookit (CCST), for implementation of connection sparseness of deep neural networks in speech recogniton based on Kaldi.
+
+The introduction and the usage of the toolkit is covered by CSLT Technical Report 20170002 written by Yanqing Wang, Zhiyuan Tang and Dong Wang. You can read it to get aware of our previous work and the detailed information of CSLT Connection Sparseness Tookit (CCST).

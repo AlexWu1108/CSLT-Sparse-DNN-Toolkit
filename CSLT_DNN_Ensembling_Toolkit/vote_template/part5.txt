@@ -1,0 +1,7 @@
+component-node name=sum_1 component=sum_1 input=Sum(final-log-softmax_1,final-log-softmax_2)
+component-node name=sum_2 component=sum_2 input=Sum(sum_1,final-log-softmax_3)
+component-node name=sum_3 component=sum_3 input=Sum(sum_2,final-log-softmax_4)
+component-node name=avg component=avg input=sum_3
+output-node name=output input=avg objective=linear
+
+<NumComponents> 89
