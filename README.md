@@ -24,7 +24,7 @@ The tookit consists of 5 parts:
 
 **Supplement to Kaldi Source Code**: a folder containing source files of commands based on Kaldi ASR toolkit. This Kaldi-based Command will help you to implement sparse deep neural networks based on Kaldi. To use the source files correctly, you should follow 'readme.txt' in that folder.
 
-## Doc
+## Documentation
 
 The introduction and the usage of the toolkit, CSDT, is covered by CSLT Technical Report 20170002, 20170003, 20170004 written by Yanqing Wang, Zhiyuan Tang and Dong Wang. You can read it to get aware of our previous work and the detailed information of CSLT Sparse DNN Tookit (CSDT).
 
