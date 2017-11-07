@@ -31,4 +31,4 @@ The introduction and the usage of the toolkit, CSDT, is covered by CSLT Technica
 
 ## Contact
 
-Yanqing Wang (wangyanqing@cslt.riit.tsinghua.edu.cn)
+Yanqing Wang (wangyanqingchn@163.com)
