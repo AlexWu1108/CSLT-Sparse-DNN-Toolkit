@@ -22,7 +22,7 @@ The tookit consists of 5 parts:
 
 **CSLT Exclusive DNN Tookit (CEDT)**: a toolkit for construction of four deep neural networks, whose structures are mutually exclusive and collectively exhaustive.
 
-**Folder of Kaldi Source Code**: a folder containing source files of commands based on Kaldi ASR toolkit. This Kaldi-based Command will help you to implement sparse deep neural networks based on Kaldi. To use the source files correctly, you should copy the files into the corresponding path in your Kaldi tookit and compile it.
+**Folder of Kaldi Source Code**: a folder containing source files of commands based on Kaldi ASR toolkit. This Kaldi-based Command will help you to implement sparse deep neural networks based on Kaldi. To use the source files correctly, you should add the code into the corresponding files in your Kaldi tookit (instead of just copying the files to the corresponding paths), and compile it.
 
 ## Doc
 
