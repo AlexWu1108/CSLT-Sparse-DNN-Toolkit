@@ -8,7 +8,7 @@
 
 **CSLT Sparse DNN Tookit (CSDT)** is a toolkit for implementation and exploration of sparse deep neural networks in speech recogniton. It's built on [Kaldi](https://github.com/kaldi-asr/kaldi) Speech Recognition Toolkit and it's released for further research on sparse deep neural networks.
 
-The toolkit is developed by Yanqing Wang, supervised by Dong Wang, at Center for Speech and Language Technology, Research Institute of Information Technology, Tsinghua University.
+The toolkit is developed by Yanqing Wang, supervised by Dong Wang, at Center for Speech and Language Technologies, Research Institute of Information Technology, Tsinghua University.
 
 ## Structure
 
