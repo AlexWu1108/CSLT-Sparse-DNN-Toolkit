@@ -10,6 +10,8 @@
 
 The toolkit is developed by Yanqing Wang, supervised by Dong Wang, at Center for Speech and Language Technologies, Research Institute of Information Technology, Tsinghua University.
 
+Please note that the documentations will be pretty helpful for you to use the toolkits correctly.
+
 ## Structure
 
 The tookit consists of 5 parts:
