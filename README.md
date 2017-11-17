@@ -10,7 +10,7 @@
 
 The toolkit is developed by Yanqing Wang, supervised by Dong Wang, at Center for Speech and Language Technologies, Research Institute of Information Technology, Tsinghua University.
 
-Please note that the documentations will be pretty helpful for you to use the toolkits correctly.
+Please note that the documentations will be pretty helpful for you to use the toolkit correctly.
 
 ## Structure
 
@@ -28,7 +28,15 @@ The tookit consists of 5 parts:
 
 ## Documentation
 
-The introduction and the usage of the toolkit, CSDT, is covered by CSLT Technical Report 20170002, 20170003, 20170004 written by Yanqing Wang, Zhiyuan Tang and Dong Wang. You can read it to get aware of our previous work and the detailed information of CSLT Sparse DNN Tookit (CSDT).
+The introduction and the usage of the toolkit, CSDT, is covered by following three CSLT Technical Report written by Yanqing Wang, Zhiyuan Tang and Dong Wang:
+
+[TRP-20170002: Connection Sparseness in Speech Recognition Based on Kaldi (in Chinese)](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/f/ff/Connection_sparseness.pdf)
+
+[TRP-20170003: Long-term DropConnect in Speech Recognition (in Chinese)](http://10.3.200.202/cache/6/03/cslt.riit.tsinghua.edu.cn/5f6bc01ad0284ac070c1da197baf58c4/Long-term_dropconnect.pdf)
+
+[TRP-20170004: Neural Sparseness in Speech Recognition Based on Kaldi (in Chinese)](http://10.3.200.202/cache/7/03/cslt.riit.tsinghua.edu.cn/76269ae042af12690a916b8fcd698eec/Neural_sparseness.pdf)
+
+You can read them to get aware of our previous work and the detailed information of CSLT Sparse DNN Tookit (CSDT).
 
 
 ## Contact
