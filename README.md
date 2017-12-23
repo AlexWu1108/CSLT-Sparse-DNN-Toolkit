@@ -1,8 +1,7 @@
-[![Codecov](https://img.shields.io/badge/version-1.0-blue.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/powered%20by-CSLT-green.svg?style=flat-square)]() 
-
 ![](icon/sparse_neural_network.jpg)
 
 # CSDT: Sparse Deep Neural Network Toolkit
+[![Codecov](https://img.shields.io/badge/version-1.0-blue.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/powered%20by-CSLT-green.svg?style=flat-square)]() 
 
 ## Introduction
 
@@ -38,6 +37,8 @@ The introduction and the usage of the toolkit, CSDT, is covered by following thr
 
 You can read them to get aware of our previous work and the detailed information of CSLT Sparse DNN Tookit (CSDT).
 
+## License 
+MIT
 
 ## Contact
 
